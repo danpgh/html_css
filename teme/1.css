@@ -1,9 +1,20 @@
 body {
   background-color: yellow;
+  border: 50%;
+  padding: 30%;
 }
 
 #blog{
   text-align: justify;
   color: green;
+  font-family: sans-serif;
+  font-weight: lighter;
 
+}
+#blog_nr {
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+#cool {
+  font-family: fantasy;
 }
