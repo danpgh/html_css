@@ -1,5 +1,6 @@
 <?php
-
-echo 'Hello World'.PHP_EOL;
+echo "Introduceti numele:";
+$nume = readline();
+echo "Hello, $nume \n";
 
  ?>
