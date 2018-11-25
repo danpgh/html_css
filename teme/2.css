@@ -1,0 +1,17 @@
+body {
+padding-left: 100px;
+  border-color: green;
+}
+
+h1 {
+  font-family: sans-serif;
+  font-weight:  400;
+}
+p {
+  max-width: 620px;
+  /*background-color: green;*/
+  text-align: left;
+  font-family: sans-serif;
+  font-size: 15px;
+
+}
