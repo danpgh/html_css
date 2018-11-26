@@ -1,6 +1,7 @@
 <?php
-  $firstname = 'Ion';
-  $firstName = 'Vasile';
-  echo "$firstname, $firstName, $FirstName".PHP_EOL;
-  
+  $a = 8 -6.4;
+  $b = 1.6;
+  $e = 0.000001;
+  var_dump(($b - $a) < $e);
+
  ?>
