@@ -1,0 +1,22 @@
+table {
+  border-width: thin;
+  border-color: black;
+  border-style: solid;
+  border-spacing: 0px;
+  border-collapse: collapse;
+}
+td {
+  border-width: thin;
+  border-color: black;
+  border-style: solid;
+  padding: 5px;
+}
+th {
+  border-width: thin;
+  border-style: solid;
+  border-spacing: 0px;
+  border-collapse: collapse;
+  background-color: #cccccc;
+  padding: 5px;
+  header: 5px
+}
