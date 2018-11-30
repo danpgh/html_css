@@ -11,7 +11,6 @@ body, html {
  justify-content: center;
  background-color: #eeeeee;
  border-radius: 20px 20px 20px 20px;
-
 }
 
 
@@ -34,7 +33,6 @@ body, html {
   background-position: 0px 0px;
   background-repeat: repeat-y;
   animation: animate 30s linear infinite;
-
 }
 
 #stick {
@@ -44,9 +42,7 @@ body, html {
   border-radius: 0 0 25px 25px;
   display: block;
   margin: 0 auto;
-
 }
-
 
 @keyframes animate {
 to {
