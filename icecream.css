@@ -13,7 +13,7 @@ align-items: center;
 }
 
 
-#falvor {
+#flavor {
   position: relative;
   width: 190px;
   height: 260px;
@@ -40,13 +40,13 @@ align-items: center;
   height: 86px;
   background-color: brown;
   border-radius: 0 0 25px 25px;
-display: block;
-margin: 0 auto;
+  display: block;
+  margin: 0 auto;
 
 }
 
 
-@@keyframes animate {
+@keyframes animate {
 to {
   background-position: 0px -1000px;
 }
