@@ -28,11 +28,11 @@ body, html {
   left: -20%;
   width: 140%;
   height: 120%;
- background-image: linear-gradient(0deg, red, red 33%, yellow 33%, yellow 66%, blue 66%, blue);
- transform:rotate(150deg);
- background-position: 0px 0px;
- background-repeat: repeat-y;
- animation: animate 30s linear infinite;
+  background-image: linear-gradient(0deg, red, red 33%, yellow 33%, yellow 66%, blue 66%, blue);
+  transform:rotate(150deg);
+  background-position: 0px 0px;
+  background-repeat: repeat-y;
+  animation: animate 30s linear infinite;
 
 }
 
