@@ -12,7 +12,6 @@
         echo $_GET['a'] + $_GET['b'];
         else
           echo "Cel putin un parametru nu este un numar";
-
      ?>
 </p>
   </body>
