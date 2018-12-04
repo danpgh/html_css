@@ -3,21 +3,25 @@ table {
   border-style: solid;
   border-collapse: collapse;
   align-content: center;
+  border-color: black;
 }
 td {
   border-width: thin;
   border-style: solid;
   padding: 5px;
-
 }
 th {
-  border-width: thin;
-  border-style: solid;
   padding: 5px;
-  background-color: #999999;
+  background-color: #dddddd;
+  border: 1px solid black;
 }
 
 body {
-  padding-left: 200px;
-  padding-top: 100px;
+  width: 45%;
+  margin: 10% auto;
+}
+
+#hd {
+  padding: 5px;
+  background-color: #dddddd;
 }
