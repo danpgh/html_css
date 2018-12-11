@@ -1,0 +1,11 @@
+.graph {
+  padding: 10px;
+  background-color: yellow;
+  align-items: center;
+  width: 500px;
+  border-radius: 10px;
+  border-style: double;
+}
+#img {
+  border-radius: 10px;
+}
