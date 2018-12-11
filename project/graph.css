@@ -1,11 +1,12 @@
 .graph {
-  padding: 10px;
-  background-color: yellow;
+  background-color: #f9f8cc;
   align-items: center;
   width: 500px;
   border-radius: 10px;
   border-style: double;
+  #margin: auto;
+  padding: 10px;
 }
 #img {
-  border-radius: 10px;
+
 }
