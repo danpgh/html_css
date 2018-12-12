@@ -8,3 +8,4 @@ $a = array();
   	echo $a[$n][0] . " " . $a[$n][1] . " " . $a[$n][2] . " " . $a[$n][3] .PHP_EOL;
   }
  ?>
+list-style
