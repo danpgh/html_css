@@ -1,12 +1,24 @@
+body {
+  padding-left: 200px;
+  font-family: monospace;
+}
+
 .graph {
   background-color: #f9f8cc;
   align-items: center;
   width: 500px;
   border-radius: 10px;
   border-style: double;
-  #margin: auto;
   padding: 10px;
 }
-#img {
+.graph:hover {
+  background-color: #f9e8cc;
+  width: 510px;
+}
+.graph:active {
 
+}
+#title {
+  width: 520px;
+  text-align: center;
 }

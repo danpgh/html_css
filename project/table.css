@@ -1,7 +1,50 @@
+table {
+  top: 20px;
+  left: 50px;
+  border-style: ridge;
+  align-content: center;
+  border-collapse: collapse;
+  position: relative;
+}
+
+th {
+  border-style: solid;
+  border-width:  2px;
+  padding: 2px;
+  background-color: #DDDDDD;
+
+}
+
+td {
+  border-style: solid;
+  border-width: thin;
+  padding: 4px;
+
+}
+
+ul {
+    list-style-type: square;
+  }
+
+.tmp {
+  text-align: right;
+}
+
+#title1 {
+width: 330px;
+text-align: center;
+}
+
+#title2 {
+  text-align: center;
+}
+
 #left {
-  positioned fixed;
-top: auto;
+top: 60px;
+left: 300px;
 width: 200px;
-right: 2000px;
-background-color: yellow;
+height: 200px;
+position: fixed;
+#background-color: yellow;
+
 }

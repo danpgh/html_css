@@ -1,0 +1,16 @@
+
+h3 {
+  padding-left: 50px;
+}
+
+textarea {
+  width: 480px;
+  height: 150px;
+}
+
+#form {
+  width: 500px;
+  border-style: ridge;
+  padding: 30px;
+  background-color: #eeeeee;
+}
