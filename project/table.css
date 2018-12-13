@@ -1,0 +1,7 @@
+#left {
+  positioned fixed;
+top: auto;
+width: 200px;
+right: 2000px;
+background-color: yellow;
+}
