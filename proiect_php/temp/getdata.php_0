@@ -1,0 +1,18 @@
+<?php
+require 'inc/connect.php';
+    $query = "SELECT * FROM data";
+    $result = mysqli_query($conn, $query);
+    if(mysqli_num_rows($result) > 0 ) {
+      while ($row = mysqli_fetch_assoc($result)) {
+        ?>
+        <div id="result">
+          <p><b>Data: </b><?php echo $row['time']." ".$row['sensor']. " ".$row['temp']." ".$row['hum'];?> </p>
+        </div>
+        <?php
+      }
+      echo "Number of results: " . " " . mysqli_num_rows($result);
+    }else {
+      echo "No results.";
+    }
+
+ ?>
